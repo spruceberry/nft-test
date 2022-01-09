@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Animal",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Names",
+      "value": "BB & MOMO"
+    }
+  ],
+  "description": "Gloria's cats",
+  "image": "https://gateway.pinata.cloud/ipfs/QmXdqV1wz2DFFyAZQDud4wiMrGCdpCsV3KM5zBwvZCoG7b",
+  "name": "BB&MOMO"
+}

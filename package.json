@@ -1,0 +1,24 @@
+{
+  "name": "superfrens",
+  "version": "1.0.0",
+  "description": "NFT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "superfrenz"
+  ],
+  "author": "spruceberry",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.4",
+    "@openzeppelin/contracts": "^4.4.1",
+    "ethers": "^5.0.0",
+    "hardhat": "^2.8.2"
+  },
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.1.9",
+    "dotenv": "^10.0.0"
+  }
+}
